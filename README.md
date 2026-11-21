@@ -5,8 +5,8 @@ Public Android APK downloads for Imperial Runner.
 
 **[Download the latest Android APK (ImperialRunner.apk)](https://github.com/njmein-alt/imperial-runner-downloads/releases/download/android-performance-21-2026-10-23/ImperialRunner.apk)**
 
-This link always points to the newest build (currently build 136, about 783 MB).
-Release notes, checksums and the previous build are on the
+This link always points to the newest build (currently build 137, about 788 MB).
+Release notes and checksums are on the
 [release page](https://github.com/njmein-alt/imperial-runner-downloads/releases/tag/android-performance-21-2026-10-23).
 
 Requirements: Android 8.0 or newer, 64-bit ARM, Vulkan. To install, allow installs from
